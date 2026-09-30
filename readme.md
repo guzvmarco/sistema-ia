@@ -16,3 +16,6 @@ Modelo de IA, software que lo sostiene
 Marco Guzman Vizcarra
 # Tecnologias:
 Machine Learning, APIs, IA, Desarrollo de Software, Bases de Datos.
+## Estado del proyecto 
+Prototipo inicial.
+
